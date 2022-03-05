@@ -1,5 +1,5 @@
 # InstallJulia
-Powershell scripts that install Julia non-interactively.
+Powershell scripts that installs Julia non-interactively.
 
 # Install latest
 ```ps1
